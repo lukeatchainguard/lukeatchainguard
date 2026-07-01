@@ -33,13 +33,6 @@
 ![SLSA](https://img.shields.io/badge/SLSA-provenance-6226FB?style=flat-square)
 ![Built on Wolfi](https://img.shields.io/badge/built%20on-Wolfi-6226FB?style=flat-square)
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lukeatchainguard&show_icons=true&count_private=true&hide_border=true&title_color=6226FB&icon_color=6226FB&text_color=768390&bg_color=0D161C" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeatchainguard&layout=compact&hide_border=true&title_color=6226FB&text_color=768390&bg_color=0D161C" alt="Most used languages" />
-
-</div>
-
 ### Find me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lukebunge/)
