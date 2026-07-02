@@ -6,6 +6,8 @@
 
 **Securing the software supply chain.**
 
+_Currently building detection and response at Chainguard._
+
 </div>
 
 ---
@@ -35,8 +37,8 @@
 
 ### Find me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/lukebunge/)
-- 🏢 [chainguard.dev](https://www.chainguard.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luke%20Bunge-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukebunge/)
+[![Chainguard](https://img.shields.io/badge/chainguard.dev-6226FB?style=flat-square&logo=chainguard&logoColor=white)](https://www.chainguard.dev)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6226FB&height=100&section=footer" width="100%" alt="" />
