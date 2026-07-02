@@ -4,9 +4,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6226FB&height=260&text=Luke%20Bunge&fontColor=ffffff&fontSize=48&fontAlignY=45&desc=Securing%20the%20software%20supply%20chain&descSize=18&descAlignY=66&animation=fadeIn" width="100%" alt="Luke Bunge" />
 
-_Currently building detection and response at Chainguard._
-
 </div>
+
+Hi, I'm Luke. I started out as a security analyst and got hooked on building the thing that does the toil instead of doing it by hand. Now I'm a security engineer at Chainguard, working on detection and response and making the software supply chain harder to attack. Bias toward signal over noise, automation that earns its keep, and defenses that hold up when it counts.
 
 ---
 
@@ -15,6 +15,7 @@ _Currently building detection and response at Chainguard._
 - 🛡️ **Detection engineering and incident response.** Building the signals, and the muscle, to catch and contain threats fast.
 - 🔍 **Threat intelligence and digital risk protection.** Knowing the adversary before they knock.
 - 📦 **Software supply-chain defense.** Provenance, signing, and trust from source to production.
+- 🛠️ **Security automation and tooling.** Turning repetitive toil into pipelines that run themselves.
 
 ### Tech I reach for
 
@@ -37,6 +38,10 @@ _Currently building detection and response at Chainguard._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luke%20Bunge-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukebunge/)
 [![Chainguard](https://img.shields.io/badge/chainguard.dev-6226FB?style=flat-square&logo=chainguard&logoColor=white)](https://www.chainguard.dev)
+
+---
+
+_Reach out if you want to talk detection, supply chain, or security automation._
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6226FB&height=100&section=footer" width="100%" alt="" />
