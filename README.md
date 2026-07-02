@@ -2,9 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6226FB&height=300&text=Luke%20Bunge&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Staff%20Security%20Engineer%20%40%20Chainguard&descSize=18&descAlignY=68&animation=fadeIn" width="100%" alt="Luke Bunge, Staff Security Engineer at Chainguard" />
-
-**Securing the software supply chain.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6226FB&height=260&text=Luke%20Bunge&fontColor=ffffff&fontSize=48&fontAlignY=45&desc=Securing%20the%20software%20supply%20chain&descSize=18&descAlignY=66&animation=fadeIn" width="100%" alt="Luke Bunge" />
 
 _Currently building detection and response at Chainguard._
 
